@@ -1,4 +1,6 @@
 <?php
+	//yo
+	
 	session_start();
 	$connect = mysql_connect("localhost:8889","root","root");
 	$db = mysql_select_db("Bitcoin_Database");
